@@ -5,9 +5,9 @@
 - Jordi Petit, jpetit@cs.upc.edu (Teoria + Laboratori)
 - Jordi Cortadella, jordi.cortadella@upc.edu (Laboratori)
 
-Consultes: quedem a abans/després de classe o per correu electrònic.
+Consultes: quedem abans/després de classe o per correu electrònic.
 
-Important: Comuniqueu-vos amb els vostres professors amb el correu oficial de la universitat.
+Important: Comuniqueu-vos amb els vostres professors amb el correu *oficial* de la universitat.
 
 
 ## Fonts d'informació
@@ -65,7 +65,7 @@ Important: Comuniqueu-vos amb els vostres professors amb el correu oficial de la
    - Anàlisi de la seva complexitat.
 4.  Invariants i anàlisi de complexitat.
     - Disseny i raonament de bucles amb invariants.
-    - Anàlisi de complexitat d'algorismes. ç
+    - Anàlisi de complexitat d'algorismes. 
     - Notació O Gran.
     - Exemples d'anàlisi de complexitat amb iteracions i recursivitat.
 5.  Matrius i tuples.
@@ -122,7 +122,7 @@ web d'examen). *No password, no exam.*
 
 La metodologia docent és molt pràctica i progressiva. Algunes consignes:
 
-- Repasseu les lliçons de teoria abans de la propera lliço.
+- Repasseu els apunts abans de la propera classe.
 
 - Resoleu els problemes de les llistes del Jutge a temps.
 
