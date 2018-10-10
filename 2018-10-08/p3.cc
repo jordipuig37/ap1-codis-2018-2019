@@ -1,5 +1,5 @@
 // Retorna el nombre de dígits 3 en la representació decimal de x.
-// Precondició: x >= 0.
+// Prec: x ≥ 0.
 // => Recorregut
 
 int compta_digits3(int x) {

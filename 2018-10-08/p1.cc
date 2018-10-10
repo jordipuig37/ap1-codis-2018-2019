@@ -1,6 +1,7 @@
 // Comptar el nombre de lletres A en un text.
 // => Recorregut
 
+
 #include <iostream>
 using namespace std;
 
