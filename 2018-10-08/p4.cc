@@ -3,7 +3,7 @@
 // => Cerca
 
 bool hi_ha_digit3(int x) {
-    bool trobat = true;
+    bool trobat = false;
     while (not trobat and x > 0) {
         if (x%10 == 3) trobat = true;
         else x /= 10;
@@ -11,6 +11,12 @@ bool hi_ha_digit3(int x) {
     return trobat;
 }
 
+
+int main() {
+    int x;
+    cin >> x;
+    cout (hi_ha_digit3(x) ? "SI" : "NO") << endl;
+}
 
 // Aquí, millor sense el boolèa!
 // (aprofitem que en una funció tenim el return directe):
