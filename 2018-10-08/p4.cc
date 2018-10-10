@@ -1,5 +1,5 @@
 // Indica si el dígit 3 és a la representació decimal de x.
-// Precondició: x >= 0.
+// Precondició: x ≥ 0.
 // => Cerca
 
 bool hi_ha_digit3(int x) {
