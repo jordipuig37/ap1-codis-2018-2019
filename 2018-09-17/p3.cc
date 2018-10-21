@@ -3,14 +3,19 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    int n, m;
-    cin >> n >> m;  // suposem n,m ≥ 1
-
-    while (n != m) {
-        if (n > m) n -= m;          // ⇔ n = n - m
-        else m -= n;                // ⇔ m = m - n
+// Definim una funcio que executi l'algorisme d'euclides rapid
+// Prec: a <= b;
+int mcd(int a, int b) {
+    while (b != 0) {
+            int r = a%b;
+            a = b;
+            b = r;
     }
+    return a;
+}
 
-    cout << n << endl;              // o m, perquè són iguals
+int main() {
+    int a, b;
+    cin >> a >> b;
+    cout << mcd(a, b) << endl; // i un endl perque quedi bonic.
 }
